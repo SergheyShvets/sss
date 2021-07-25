@@ -5,4 +5,5 @@ class ss {
     val s1 = "222"
     val s2 = "3333"
     val s3 = "44444"
+    val s4 = "555555"
 }
